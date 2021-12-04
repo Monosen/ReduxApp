@@ -1,0 +1,20 @@
+.box-login {
+	max-width: 1300px;
+}
+
+.box-text {
+	box-shadow: 3px 3px 10px rgb(0 0 0 / 30%);
+	/* min-height: 45%; */
+}
+
+@media (min-width: 768px) {
+	.box-form {
+		box-shadow: 3px 3px 10px rgb(0 0 0 / 20%);
+	}
+}
+
+@media (max-width: 767.98px) {
+	.box-sign {
+		box-shadow: 3px 3px 10px rgb(0 0 0 / 20%);
+	}
+}
